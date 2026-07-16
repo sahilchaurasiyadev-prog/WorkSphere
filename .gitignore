@@ -1,0 +1,9 @@
+# Dependency folders
+node_modules/
+
+# Production builds
+dist/
+
+# Local environment variables/secrets
+.env
+.env.local
